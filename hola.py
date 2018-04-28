@@ -1,8 +1,5 @@
-# Saludar al usuario
-print('Hola mundo')
+# TODO Saludar al usuario
 
-# Preguntar su nombre
-nombre = input('¿Cual es tu Nombre? \n ')
+# TODO Preguntar su nombre
 
-# Saludar por el nombre
-print('Buenos días',nombre)
+# TODO Saludar por el nombre
